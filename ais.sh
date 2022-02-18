@@ -49,3 +49,4 @@ locale-gen
 echo "LANG=en_US.UTF-8" >> /etc/locale.conf
 
 localectl --no-convert set-x11-keymap de pc105 neo_quertz
+
